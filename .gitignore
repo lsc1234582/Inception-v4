@@ -1,3 +1,4 @@
 *.jpg
 *.swp
-dataset_batch_01
+dataset_batch_*
+label_names
