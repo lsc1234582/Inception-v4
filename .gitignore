@@ -2,3 +2,6 @@
 *.swp
 dataset_batch_*
 label_names
+raw_images/
+.ipynb_checkpoints/
+__pycache__/
